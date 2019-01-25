@@ -8,25 +8,25 @@ public class Sem2Main {
     public static void main(String[] args) {
         Sem2Main = new Sem2Main
 
-    }
+}
 
-    //Constructor
-    private Sem2Main{
+//Constructor
+private Sem2Main{
         new leo();
         new jackson();
         new eddie();
 
-    }
+        }
 
-    private void leo(){
+private void leo(){
         System.out.println("leo");
-    }
+        }
 
-    private void jackson(){
+private void jackson(){
 
-    }
+        }
 
     private void eddie(){
-
+        System.out.println("Hey, VSAUCE, Eddie here");
     }
 }
